@@ -1,1 +1,1 @@
-# Naveen
+Food Munch is a modern, responsive food ordering website designed to provide users with an easy and enjoyable way to browse, explore, and order food online. The platform focuses on user-friendly navigation, clear presentation of menu items, and fast interactions.
